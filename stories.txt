@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel=stylesheet type=text/css href="a.css">
+</head>
+<body>
+<h1>Contact Us</h1>
+<br><br>
+<br><br>
+<h2>
+	phone number:1234-5678-90
+	email id:abc.859@gmail.com
+</h2>
+
+</body></html>
